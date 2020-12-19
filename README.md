@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Horiseone Social Solution Service, Inc.
 
 ## Task 
@@ -8,7 +7,7 @@ As a junior developer, I've been tasked with refactoring Horiseon's website. My 
 
 
 
-## Changes on HTML file
+### Changes on HTML file
 
 * implemented Semantic HTML elements
 * included alt attributes to image elements
@@ -16,7 +15,7 @@ As a junior developer, I've been tasked with refactoring Horiseon's website. My 
 * added a descriptive title
 * made sure all links work properly
 
-## Changes made on CSS file
+### Changes made on CSS file
 
 * consolidated CSS selectors and properties
 * organized CSS file to follow semantic structure
