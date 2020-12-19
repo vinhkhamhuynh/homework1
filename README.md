@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Horiseone Social Solution Service, Inc.
 
 ## Task 
@@ -26,3 +27,4 @@ As a junior developer, I've been tasked with refactoring Horiseon's website. My 
 Click on Link-->[Horiseon](https://vinhkhamhuynh.github.io/vinhkhamhuynh-refactor/)
 
 ![full-screenshot-of-the-Horiseon-web-page](./assets/images/screenshot.png)
+=======
